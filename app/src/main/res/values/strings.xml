@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz 3p</string>
+    <string name="pytanie">Wybierz kolory które nie występują we fladze Polski</string>
+    <string name="odp_ok">Właściwy kolor</string>
+    <string name="odp_no">Nie ten kolor</string>
+    <string name="gratulacje">Wygrana!!!!</string>
+</resources>
